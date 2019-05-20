@@ -1,7 +1,10 @@
-import 'package:prime/route/router_application.dart';
 import 'package:prime/app/app_init.dart';
 import 'package:prime/loading.dart';
 import 'package:prime/base/base_index.dart';
+
+/// https://github.com/hanlin19900610/flutter_bottom_navigation_bar //仿闲鱼底部导航栏带有中间凸起图标
+/// 编写简单的测试主页 => 重审base_widget => 在测试页面使用base_widget => 接入BloC => 网络层封装 => 使用BloC实现数据请求加载列表 => 下拉刷新 => 页面状态 => 全局模态层 => 回头, 重新改造SplashPage和IntroPage, 放到pages的welcome目录下 => 重构代码
+/// 实现简单的登录功能和列表请求功能
 
 void main() {
   runApp(MyApp());

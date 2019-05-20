@@ -1,5 +1,4 @@
-import 'package:prime/route/router_application.dart';
-import 'package:prime/route/routers.dart';
+import 'package:prime/routers/routers.dart';
 import 'package:prime/base/base_index.dart';
 
 /// 初始化工作

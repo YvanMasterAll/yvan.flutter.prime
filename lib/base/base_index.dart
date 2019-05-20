@@ -6,3 +6,4 @@ export 'package:fluro/fluro.dart';
 export 'package:intro_slider/intro_slider.dart';
 export 'package:prime/app/app_env.dart';
 export 'package:prime/utils/sp_utils.dart';
+export 'package:prime/app/app.dart';
